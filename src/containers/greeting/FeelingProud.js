@@ -3,7 +3,6 @@ import "./FeelingProud.css";
 import me from "../../assests/images/rima.png";
 
 function FeelingProud(props) {
-  const theme = props.theme;
   return (
     <div>
       <img
