@@ -116,7 +116,7 @@ export default function Main(propss) {
                 />
               )}
             />
-            <Route
+            {/* <Route
               path="/experience"
               exact
               render={(props) => (
@@ -126,7 +126,7 @@ export default function Main(propss) {
                   setTheme={propss.setTheme}
                 />
               )}
-            />
+            /> */}
             <Route
               path="/education"
               render={(props) => (
